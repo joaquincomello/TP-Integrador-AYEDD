@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP Integrador AYEDD", "TP Integrador AYEDD\TP Integrador AYEDD.csproj", "{D7086AF3-9F36-4705-B126-32B331B66DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7086AF3-9F36-4705-B126-32B331B66DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7086AF3-9F36-4705-B126-32B331B66DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7086AF3-9F36-4705-B126-32B331B66DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7086AF3-9F36-4705-B126-32B331B66DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D547F82E-38FF-4882-AAD6-733DD37D4513}
+	EndGlobalSection
+EndGlobal
